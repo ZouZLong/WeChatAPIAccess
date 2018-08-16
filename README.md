@@ -1,7 +1,7 @@
 # WeChatAPIAccess
 模拟微信的API接入，实现和微信客户端的功能交互
 
-<img height =“204” src =“https://www.baidu.com/img/bd_logo1.png?where=super”>
+<img height =“204” src =“https://www.baidu.com/img/bd_logo1.png”>
 
 
 1.申请你的AppID
